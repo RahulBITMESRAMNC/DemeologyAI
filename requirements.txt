@@ -1,0 +1,9 @@
+flask
+flask-cors
+transformers
+torch
+torchvision
+Pillow
+openai
+python-dotenv
+gunicorn
